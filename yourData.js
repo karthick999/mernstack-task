@@ -3,17 +3,15 @@ export default {
   //Change The Website Template
 
   //   Header Details ---------------------
-  name: "chetan",
+  name: "karthick",
   headerTaglineOne: "Hello 👋",
   headerTaglineTwo:
-    "I'm Chetan Verma - curious designer and devloper based in New Delhi, India. ",
+    "I'm karthick - curious designer and devloper based in New Delhi, India. ",
 
   socials: [
     { title: "Github", link: "https://github.com/chetanverma16" },
-    { title: "LinkedIn", link: "https://www.linkedin.com/in/chetanverma7/" },
-    { title: "Twitter", link: "https://twitter.com/realchetanverma" },
-    { title: "Blog", link: "https://blog.chetanverma.com/" },
-    { title: "Email", link: "mailto:hello@chetanverma.com" },
+    
+   { title: "Email", link: "mailto:karthick.al21@bitsathy.ac.in" },
   ],
 
   // End Header Details -----------------------
